@@ -1,17 +1,17 @@
+/* Bismillah ir-Rahman ir-Rahim */
 #include <iostream>
 #include <cmath>
 #include <iomanip>
 using namespace std;
 
-const int rows = 80;
-const int cols = 47;
+const int rows = 5;
+const int cols = 5;
 
 void output(int mat[][cols]);
 void fillMatrixFromTopLeft(int mat[][cols]);
 void fillMatrixFromBottomRight(int mat[][cols]);
 
 int main() {
-
     int mat[rows][cols] = {0},
         startingPoint;
 
