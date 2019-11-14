@@ -151,7 +151,6 @@ bool isMatrixSymetricalWithRegardsToSecundaryDiagonal(int mat[][cols]) {
                 return false;
             }
         }
-        cout << endl;
     }
 
     return true;
