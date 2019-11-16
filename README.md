@@ -1,2 +1,2 @@
 # FIT
-Zadaci i problemi sa raznih predmeta Fakulteta informacijskih tehnologija u Mostaru
+Assignments and problems from different courses on the Faculty of Infromation Technology in Mostar
